@@ -3,3 +3,4 @@ Linear Regression perform on Google colab . In this The Year Of experience We Ha
 The Model Learn the pattern Of the Dataset and then It make the Decision Based on the pattern Learned.
 Remaining for the Assessment as the Done in practical slot.
 This gives the real world application used,lets try with jup notebook or google colab
+This give me valuable insight to me and helpful to my growth
