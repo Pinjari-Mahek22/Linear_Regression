@@ -1,6 +1,4 @@
-# Linear Regression
-Linear Regression perform on Google colab . In this The Year Of experience We Have to insert and then the Salary of the Employee is detected
-The Model Learn the pattern Of the Dataset and then It make the Decision Based on the pattern Learned.
-Remaining for the Assessment as the Done in practical slot.
-This gives the real world application used,lets try with jup notebook or google colab
-This give me valuable insight to me and helpful to my growth
+#Linear Regression
+Here we used to learn the model in the format the output we want to be so that the model can predict the impact of the problem 
+Here The model train on basis of the employee salary based on the year of the experience 
+In this model you can put the year of exp and the model predict the salary of that the event
